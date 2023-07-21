@@ -1,5 +1,5 @@
-import { myArray, bulb, multipleByFour } from "./exportMultipleValues.mjs";
+import { myArray, bulb, multiplyByFour } from "./exportMultipleValues.mjs";
 
 console.log(myArray);
 console.log(bulb);
-console.log(multipleByFour(5));
+console.log(multiplyByFour(5));
